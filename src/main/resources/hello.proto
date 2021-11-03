@@ -23,5 +23,5 @@ message Hello {
 }
 
 message Bye {
-	string bye = 1;
+	string bye =  1;
 }
